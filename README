@@ -39,12 +39,12 @@ vanitygen, use the "-t" option.
 The example below completed quicker than average, and took about 45 sec 
 to finish, using both cores of my aging Core 2 Duo E6600:
 
-$ ./vanitygen 1Love
+$ ./vanitygen VTeto
 Difficulty: 4476342
 [48165 K/s][total 2080000][Prob 37.2%][50% in 21.2s]                           
-Pattern: 1Love
-Address: 1LoveRg5t2NCDLUZh6Q8ixv74M5YGVxXaN
-Privkey: 5JLUmjZiirgziDmWmNprPsNx8DYwfecUNk1FQXmDPaoKB36fX1o
+Pattern: VTeto
+Address: VTetoedopdhaReVjZz37qijHJjFzifxAAn
+Privkey: 5JWD3Marnp5XGMdJ4hHLzY5h6NfFVKhmf3idEqVAWAumzeLRYYm
 
 Currently, it is difficult to import the private key into bitcoin.  
 Sipa's showwallet branch has a new command called "importprivkey" that 
